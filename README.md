@@ -82,4 +82,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 ---
 
 ✨ Enjoy your coffee! Built with ❤️ and caffeine. ☕
-```
