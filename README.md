@@ -1,6 +1,6 @@
 # ☕ Vallina Coffee Shop
 
-A beautifully designed coffee shop website built with **Vite** and styled using **TailwindCSS**. The project focuses on simplicity, performance, and a smooth user experience.
+A beautifully designed coffee shop website using **TailwindCSS**. The project focuses on simplicity, performance, and a smooth user experience.
 
 🌐 **Live Demo**: [vallina-coffeeshop.vercel.app](https://vallina-coffeeshop.vercel.app)
 
@@ -77,7 +77,6 @@ This project is deployed on **Vercel** for a fast and reliable hosting experienc
 ---
 
 ## 📄 License
-
 This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for more details.
 
 ---
