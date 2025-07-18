@@ -1,6 +1,6 @@
 # ☕ Vallina Coffee Shop
 
-A beautifully designed coffee shop website using **TailwindCSS**. The project focuses on simplicity, performance, and a smooth user experience.
+A beautifully designed coffee shop website using **Tailwind**. The project focuses on simplicity, performance, and a smooth user experience.
 
 🌐 **Live Demo**: [vallina-coffeeshop.vercel.app](https://vallina-coffeeshop.vercel.app)
 
